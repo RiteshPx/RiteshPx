@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate software Developer who loves expl
 ## 🔧 Technologies & Tools  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)  
-*(Add other technologies you're proficient in.)*  
+
 <!--
 ## 📊 GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
