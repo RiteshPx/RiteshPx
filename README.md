@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" height="500" src="https://elements-resized.envatousercontent.com/elements-cover-images/67052d83-ecdf-4606-bb96-a0f13e541e2a?w=433&cf_fit=scale-down&q=85&format=auto&s=e632bca4b12f6fcba54bb66909707bd5d4001f95046454815aa739d65f944726" >
+<img align="center" alt="Coding" width="1000" height="500" src="https://marketplace.canva.com/EAFekpb5NK0/1/0/1600w/canva-dark-modern-photo-mountain-and-sky-desktop-wallpaper-5ixgVU5XGxc.jpg" >
 
 <h1 align="center">Hey 👋, I'm Ritesh Parmar !!</h1>
 
