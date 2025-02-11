@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" height="500" src="https://marketplace.canva.com/EAFekpb5NK0/1/0/1600w/canva-dark-modern-photo-mountain-and-sky-desktop-wallpaper-5ixgVU5XGxc.jpg" >
+<img align="center" alt="Coding" width="1000" height="500" src="https://png.pngtree.com/thumb_back/fh260/background/20230705/pngtree-3d-illustration-tablet-toting-college-student-takes-flight-image_3747289.jpg" >
 
 <h1 align="center">Hey 👋, I'm Ritesh Parmar !!</h1>
 
