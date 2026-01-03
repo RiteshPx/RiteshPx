@@ -2,17 +2,8 @@
 
 <h1 align="center">Hey 👋, I'm Ritesh Parmar !!</h1>
 
-Welcome to my GitHub profile! I'm a passionate software Developer who loves exploring web development and innovative tech solutions.
-
 ## 🚀 About Me  
-- 🔭 I’m currently working on EdTech (My Major Project) 
-- 🌱 I’m learning The MERN Development 
-
 - 📫 How to reach me: riteshparmar17@gmail.com
-
-## 🔧 Technologies & Tools  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)  
 
 <!--
 ## 📊 GitHub Stats  
